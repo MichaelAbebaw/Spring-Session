@@ -1,0 +1,4 @@
+spring:
+  docker:
+    compose:
+      life-cycle-management : 'start-only'
